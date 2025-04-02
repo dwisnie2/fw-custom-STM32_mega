@@ -1,3 +1,6 @@
+**Testing Knock sensing**
+original mega100 firmware runs fine on stm32_mega by pazi88 with upgraded mcu
+
 [firmware snapshot](https://rusefi.com/build_server/rusefi_bundle_mega100.zip)
 
 base example tune with pins selected: https://github.com/rusefi/fw-custom-mega100/blob/main/mega100_base_tune.msq
