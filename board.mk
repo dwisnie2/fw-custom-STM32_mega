@@ -9,7 +9,7 @@ include $(BOARD_DIR)/meta-info.env
 
 # reduce memory usage monitoring
 DDEFS += -DRAM_UNUSED_SIZE=100
-DDEFS += -DEFI_STORAGE_SD=TRUE
+
 # assign critical LED to a non-existent pin
 DDEFS += -DLED_CRITICAL_ERROR_BRAIN_PIN=Gpio::I15
 
